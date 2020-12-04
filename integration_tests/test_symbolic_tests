@@ -1,0 +1,7 @@
+[-d src] || echo "directory does not exist"
+
+[-f src/Ampersand.cpp] && echo "file exists"
+
+ls -a; [-f header/Ampersand.h] || mkdir test
+
+echo hello && [header/Bars.h] || echo "world"

@@ -1,0 +1,8 @@
+(echo a && echo b) || (echo c && echo d) 
+
+(echo hi && echo bye) || mkdir test 
+
+ls -a; echo hi || (mkdir test && echo world)
+
+(((ls -a && echo hello) || (echo yes || (echo no || echo nope) && echo yes)) && ls -a)
+

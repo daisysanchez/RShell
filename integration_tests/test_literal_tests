@@ -1,0 +1,20 @@
+mkdir test_cases 
+touch hi.cpp
+
+test -e src || echo "directory does not exists"
+
+test -d test_cases || echo "directory does not exist"
+rm -rf test_cases
+
+test -d test_cases && echo "directory does not exist"
+
+test -f hi.cpp && echo "file exists" 
+rm hi.cpp
+
+test -d test_cases
+
+test -f hi.cpp
+
+test -f src/Parse.cpp && echo "file exists"
+
+test -e header/Parse.h || echo "file does not exist

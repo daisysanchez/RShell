@@ -1,0 +1,7 @@
+#!/bin/sh
+
+ls -a; echo hello; mkdir test
+
+ls -a || exit && mkdir test
+
+echo yes || echo no && echo yes && echo yes || echo no || echo no && echo yes

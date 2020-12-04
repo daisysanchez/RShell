@@ -1,0 +1,5 @@
+exit && echo hello
+echo hello && exit
+mkdir test || exit
+mkdir newDir || exit
+ls -a; echo hello && mkdir test || echo world; git status; exit

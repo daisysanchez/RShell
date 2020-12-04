@@ -1,0 +1,6 @@
+echo hello # echo dontPrint
+mkdir test #mkdir here
+mkdir echo # hello
+# hello
+#exit
+exit

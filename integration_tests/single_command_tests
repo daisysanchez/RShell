@@ -1,0 +1,6 @@
+mkdir single
+echo hello
+echo "hello"
+ls -a
+git status
+exit
