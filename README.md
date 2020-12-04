@@ -6,6 +6,9 @@
   Partners: 
     Rachel Lau (862039557) and 
     Daisy Sanchez (862119715)
+    
+    Daisy Sanchez: Author of all src files. Contributions to README and tests
+    Rachel Lau: Author of README and tests. Contributions to parser
 
 # Introduction
   This project is a command shell capable of executing standard BASH commands. It prompts the user, reads a line of command(s) (and connector(s)), executes the command(s), and repeats this process until the `exit` command is executed.
