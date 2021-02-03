@@ -4,8 +4,8 @@
   Quarter: Winter 2020
   
   Partners: 
-    Rachel Lau (862039557) and 
-    Daisy Sanchez (862119715)
+    Rachel Lau  and 
+    Daisy Sanchez 
     
     Daisy Sanchez: Author of all src files. Contributions to README and tests
     Rachel Lau: Author of README and tests. Contributions to parser
